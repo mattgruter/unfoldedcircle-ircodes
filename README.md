@@ -16,7 +16,7 @@ Click on the **add** button on the remotes section.
 
 Give the remote a name and click on **Create Blank**.
 
-<img src="./assets/add_remote_screen.png" height="300">
+<img src="./assets/add_remote_screen.png" height="400">
 
 Give the device a descriptive name (manufacturer and model) and click on **Create**.
 
