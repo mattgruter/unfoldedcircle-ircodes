@@ -16,7 +16,7 @@ Click on the **add** button on the remotes section.
 
 Give the remote a name and click on **Create Blank**.
 
-![Remotes section](./assets/add_remote_screen.png)
+<img src="./assets/add_remote_screen.png" height="300">
 
 Give the device a descriptive name (manufacturer and model) and click on **Create**.
 
@@ -24,7 +24,7 @@ Give the device a descriptive name (manufacturer and model) and click on **Creat
 
 Click on the edit button next to the dataset name
 
-![Remote editor] (./assets/remote_editor_screen.png)
+![Remote editor](./assets/remote_editor_screen.png)
 
 Click on **Bulk Import**
 
@@ -33,4 +33,4 @@ Click on **Bulk Import**
 Click on **Select file** and adjust the delimiter if needed.
 Click on **Upload** in order to complete the import.
 
-<img src="./assets/ir_import_screen.png" height="300">
+<img src="./assets/ir_import_screen.png" height="500">
