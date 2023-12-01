@@ -24,7 +24,7 @@ Give the device a descriptive name (manufacturer and model) and click on **Creat
 
 Click on the edit button next to the dataset name
 
-![Remote editor (./assets/remote_editor_screen.png)
+![Remote editor] (./assets/remote_editor_screen.png)
 
 Click on **Bulk Import**
 
