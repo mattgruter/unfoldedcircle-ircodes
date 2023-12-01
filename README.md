@@ -20,7 +20,7 @@ Give the remote a name and click on **Create Blank**.
 
 Give the device a descriptive name (manufacturer and model) and click on **Create**.
 
-![Create custom ir dataset](./assets/create_custom_device_screen.png =x300)
+<img src="./assets/create_custom_device_screen.png" height="300">
 
 Click on the edit button next to the dataset name
 
@@ -33,4 +33,4 @@ Click on **Bulk Import**
 Click on **Select file** and adjust the delimiter if needed.
 Click on **Upload** in order to complete the import.
 
-![Dataset importy](./assets/ir_import_screen.png =x300)
+<img src="./assets/ir_import_screen.png" height="300">
