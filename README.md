@@ -1,6 +1,6 @@
 # unfoldedcircle-ircodes
 
-A collection of IR codesets for the Unfolded Circle Remote Two
+A collection of IR [codesets](./codesets/) for the Unfolded Circle Remote Two
 
 The purpose of the repository is to collect custom IR codesets for the Unfolded Circle Remote Two. Follow the steps in [Use custom codesets](#use-custom-codesets) to learn how to use a custom codeset from this repository with your remote.
 
